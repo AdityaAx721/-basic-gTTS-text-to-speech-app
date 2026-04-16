@@ -1,16 +1,17 @@
-*
-# Python-generated files
+# Python
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
 
-# Virtual environments
-.venv
+# Virtual environment
+.venv/
+
+# Output files
 output/
 *.mp3
+
+# Config / local files
 .python-version
 uv.lock
-__pycache__/
+
+# OS files
+.DS_Store
